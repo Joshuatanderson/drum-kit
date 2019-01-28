@@ -1,8 +1,7 @@
 # drum-kit
-Functioning drum kit
 
-Uses event listeners that are activated by keypresses to play sound files.
+Welcome to Drum Kit!
 
-This makes it a drum kit.  
+This application uses event listeners that are activated by keypresses to play sound files.
 
-Languages are JS, CSS, and HTML.
+The languages used are JS, CSS, and HTML.
